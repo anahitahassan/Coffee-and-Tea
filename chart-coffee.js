@@ -30,11 +30,11 @@ var options = {
   }],
     chart: {
     height: 250,
-    width: 450,
+    width: 500,
     type: 'heatmap',
   },
   xaxis: {
-    tickAmount: 14,
+    tickAmount: 15,
     title: {
         text: 'Week number'
     }
