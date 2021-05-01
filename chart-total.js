@@ -30,7 +30,7 @@ var options = {
   }],
     chart: {
     height: 250,
-    width: 450,
+    width: 500,
     type: 'heatmap',
   },
   xaxis: {
