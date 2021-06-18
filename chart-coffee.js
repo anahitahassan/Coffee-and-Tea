@@ -50,6 +50,6 @@ var options = {
     text: 'HeatMap Chart of Coffee'
   },
 };
-
+// using apexcharts
 var chart = new ApexCharts(document.querySelector("#chart-coffee"), options);
 chart.render();
